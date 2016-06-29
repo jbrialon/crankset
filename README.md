@@ -3,6 +3,7 @@
 ![Image of crank](http://img.cinemablend.com/cb/7/f/8/a/e/e/7f8aee6eb6c5f86d79cf77c776de59f0aba6b31b22066728c13b0110c8dbd947.jpg)
 
 > bikepace calculating tool
+> url : https://jbrialon.github.io/crankset/dist/
 
 ## Build Setup
 
