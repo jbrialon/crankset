@@ -115,3 +115,9 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+html {
+  font-family: 'Amiko', sans-serif;
+}
+</style>
